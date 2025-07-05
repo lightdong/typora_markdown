@@ -2,6 +2,7 @@
 💌  
 * markdown是一种非常适合中国人习惯的文本编写语法，使用起来可以让你沉浸其中，无法自拔
 * 反正比word香多了，不过word排版的功能还是很强大的
+* 百度网盘[资料下载](https://pan.baidu.com/s/175HL2XakJf-N6_5cXTkyyQ?pwd=4095)提取码: 4095 
 ***  
   
 ## 🌀typora的安装  
