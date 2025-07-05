@@ -6,11 +6,11 @@
 ***  
   
 ## 🌀typora的安装  
-typora是一个非常好的编写markdown的软件，typora软件的安装包的压缩包已经上传到上面了，下载后就可以用了  
+typora是一个非常好的编写markdown的软件，typora软件的安装包的压缩包已经上传到百度网盘了，下载后就可以用了  
 ***  
   
 ## 💕Pandoc的安装
-在git开源上找的，建议放在C:\Program Files这个文件夹下  
+在git开源上找的，[资料下载](https://pan.baidu.com/s/175HL2XakJf-N6_5cXTkyyQ?pwd=4095)里面就有，建议放在C:\Program Files这个文件夹下  
 ***  
 
 ## typora的基本配置  
