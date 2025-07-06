@@ -4,7 +4,7 @@
 * 反正比word香多了，不过word排版的功能还是很强大的
 * 百度网盘[资料下载](https://pan.baidu.com/s/175HL2XakJf-N6_5cXTkyyQ?pwd=4095)提取码: 4095
 * [看视频学习](https://www.bilibili.com/video/BV1eJ4m157kC/?spm_id_from=333.337.search-card.all.click&vd_source=d3ce499dc74c33ca1530d4cfe17677fe)一天就可以学会，学习成本不高。
-* [白嫖视频](https://www.netflixgc.com/)不需要充会员
+* [白嫖视频](https://www.netflixgc.com/)不需要充会员，这个网站很润
 ***  
   
 ## 🌀typora的安装  
