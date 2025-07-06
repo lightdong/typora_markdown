@@ -30,4 +30,4 @@ typora是一个非常好的编写markdown的软件，typora软件的安装包的
 关注了公众号后，如果想看安装教程的话，直接发想要安装软件的消息就可以了  
 :bamboo:[7zip安装包](https://pan.baidu.com/s/13YohKQve_282VOXotbgreQ)，提到码：4095  
 :gift_heart:[福昕PDF安装包](https://pan.baidu.com/s/1WEDX16PO4aI1v9CB7Go2gQ)，提到码：4095  
-:dolls:[Xmind安装包](https://pan.baidu.com/s/15UiqIq-xzP-wlscMX0YPIw )，提到码：4095
+:dolls:[Xmind安装包](https://pan.baidu.com/s/15UiqIq-xzP-wlscMX0YPIw )，提到码：4095，使用里面的专业破解版
