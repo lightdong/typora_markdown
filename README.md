@@ -22,3 +22,9 @@ typora是一个非常好的编写markdown的软件，typora软件的安装包的
 4️⃣![image](https://github.com/user-attachments/assets/0ce3b793-a0bc-4a10-b2d3-f455d7b530e2)  
 
 # 做完这些最后，你就可以自由地书写了，另外markdown导出的文件都非常简洁，给人一种非常清新的感觉。
+
+## 其他  
+如果想使用其他高效的办公软件，可以在微信公众号上关注王小叔、学委石同学  
+:bamboo:[7zip安装包](https://pan.baidu.com/s/13YohKQve_282VOXotbgreQ)，提到码：4095  
+:gift_heart:[福昕PDF安装包](https://pan.baidu.com/s/1WEDX16PO4aI1v9CB7Go2gQ)，提到码：4095  
+:dolls:[Xmind安装包](https://pan.baidu.com/s/15UiqIq-xzP-wlscMX0YPIw )，提到码：4095
