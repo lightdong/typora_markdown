@@ -7,6 +7,7 @@
 * [学习Xmind](https://www.bilibili.com/video/BV1vK4y1t7zo/?spm_id_from=333.337.search-card.all.click&vd_source=d3ce499dc74c33ca1530d4cfe17677fe)
 * [白嫖视频](https://www.netflixgc.com/)不需要充会员，这个网站很润
 * [论文格式](https://www.bilibili.com/video/BV1794y1f7JF/?spm_id_from=333.1387.favlist.content.click&vd_source=d3ce499dc74c33ca1530d4cfe17677fe)姐姐的声音很好听
+* 如果你，现在静不下心来，脑子嗡嗡的。可以试一下[冥想](https://www.bilibili.com/video/BV1Eq4y1T7DM?spm_id_from=333.788.videopod.episodes&vd_source=d3ce499dc74c33ca1530d4cfe17677fe)
 ***  
   
 ## 🌀typora的安装  
